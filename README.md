@@ -7,7 +7,7 @@
 I'm a Software Engineer who is passionate about encouraging others to get in the industry. I enjoy community building, content creation and learning deeply about Javascript and Developer Advocacy. 
 
 - 🌱 Currently learning: AI & Machine Learning 
-- 🔭 Working on: COpyPasta Chrome Extension to make it work across browsers 
+- 🔭 Working on: CopyPasta Chrome Extension to make it work across browsers 
 - ⚡ Fun fact: I'm Jamaican and I love food 💃🏽 
 
 ## My Skills 🧠
